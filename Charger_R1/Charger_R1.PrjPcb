@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=Charger_PCB.PcbDoc
+DocumentPath=..\..\..\2024\PCB Fabrication\PCBWay_Charger_Board\Charger_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
