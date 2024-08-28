@@ -185,6 +185,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GOLFRCIO
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for AMS_Remote_Module\Design Rule Check - AMS_Remote_Module_A1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
