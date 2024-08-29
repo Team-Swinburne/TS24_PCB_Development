@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IVTVHRSB
 
 [Document2]
-DocumentPath=..\..\TS_24 Brake Module\Power Supply.SchDoc
+DocumentPath=..\..\TS_24 Brake Module\Power supply UCM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
