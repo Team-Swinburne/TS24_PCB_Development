@@ -51,7 +51,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=Microcontroller.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -68,7 +68,7 @@ DocumentUniqueId=VJLQLDMW
 
 [Document2]
 DocumentPath=L9963E.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -119,7 +119,7 @@ DocumentUniqueId=
 
 [Document5]
 DocumentPath=CAN.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -170,7 +170,7 @@ DocumentUniqueId=ASVMFKBV
 
 [Document8]
 DocumentPath=Power.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
