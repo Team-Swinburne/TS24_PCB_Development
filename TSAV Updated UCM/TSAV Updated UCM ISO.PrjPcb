@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SAMNRNID
 
 [Document6]
-DocumentPath=..\..\..\..\Desktop\Formula E\work\190312 UCM R4\ADC Chip And ISO.SchDoc
+DocumentPath=ADC Chip And ISO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
